@@ -16,7 +16,7 @@ Synthia now enables seamless **token swapping**, **asset bridging**, and **crypt
 
 Synthia streamlines these complex processes, making them accessible to everyone, regardless of technical expertise.
 
-👉 **Usage**: Get started today on Synthia’s Telegram: [https://t.me/SynthiaIagentBot](https://t.me/SynthiaAIagentBot).
+👉 **Usage**: Get started today on Synthia’s X:[https://x.com/AgentSynthia](https://x.com/AgentSynthia) Telegram: [https://t.me/SynthiaIagentBot](https://t.me/SynthiaAIagentBot).
 👉 **Example**: "@AgentSynthia Swap 10$ of BNB into USDC, Mubarak and Cake".
 
 ---
@@ -102,7 +102,7 @@ By delivering continuous updates and actionable data, Cortana ensures that you�
 ---
 
 
-### 6️⃣ ⚙️ Agent-as-a-Service (AaaS)
+### 6️⃣ ⚙️ Agent-as-a-Service 
 
 Synthia provides developers with the tools to integrate intelligent agents into their applications. Using powerful APIs, you can create custom agents that leverage Synthia’s intelligence for various use cases. With Synthia’s capabilities, you gain:
 
