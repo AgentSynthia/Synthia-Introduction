@@ -1,6 +1,6 @@
 # Synthia AI: Your Ultimate AI-Powered Crypto Companion
 
-Synthia AI is a revolutionary AI agent designed to empower users with advanced tools for navigating the complex world of blockchain and cryptocurrency. From detailed technical analysis to smart contract intelligence and real-time market insights, Cortana provides unparalleled assistance to traders, developers, and investors alike.
+Synthia AI is a revolutionary AI agent designed to empower users with advanced tools for navigating the complex world of blockchain and cryptocurrency. From detailed technical analysis to smart contract intelligence and real-time market insights, Synthia provides unparalleled assistance to traders, developers, and investors alike.
 
 ---
 
