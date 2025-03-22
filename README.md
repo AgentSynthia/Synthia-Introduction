@@ -6,7 +6,7 @@ Synthia AI is a revolutionary AI agent designed to empower users with advanced t
 
 ## Features
 
-### 7️⃣ 💱 Token Swapping, Bridging, and Transfers
+### 1️⃣ 💱 Token Swapping, Bridging, and Transfers
 
 Synthia now enables seamless **token swapping**, **asset bridging**, and **crypto transfers** across chains. This powerful feature simplifies the process of managing and transferring assets between networks:
 
@@ -16,12 +16,14 @@ Synthia now enables seamless **token swapping**, **asset bridging**, and **crypt
 
 Synthia streamlines these complex processes, making them accessible to everyone, regardless of technical expertise.
 
+👉 **Example**: "@AgentSynthia sell 30% of all tokens I have on BSC".
+👉 **Example**: "@AgentSynthia Sell 5% of BNB into 50%USDC, 30%Mubarak and 20%Cake".
+👉 **Example**: "@AgentSynthia Bridge 1BNB from BSC to USDC on Base".
 👉 **Usage**: Get started today on Synthia’s X:[https://x.com/AgentSynthia](https://x.com/AgentSynthia) Telegram: [https://t.me/SynthiaIagentBot](https://t.me/SynthiaAIagentBot).
-👉 **Example**: "@AgentSynthia Swap 10$ of BNB into USDC, Mubarak and Cake".
 
 ---
 
-### 5️⃣ 💡 Launch Tokens & Earn LP Fees Seamlessly
+### 2️⃣ 💡 Launch Tokens & Earn LP Fees Seamlessly
 
 Launching your own token is now easier than ever with Synthia. Designed to simplify the development process, Synthia provides all the tools necessary to bring your project to life without the need for extensive technical expertise. Key benefits include:
 
@@ -35,11 +37,10 @@ Whether you’re launching a new project or experimenting with innovative tokeno
 👉 **Example**: "@AgentSynthia Deploy a token for me BSCBULL, Ticker BSC".
 👉 **Example**: "@AgentSynthia Claim my LP rewards.
 
-
 ---
 
 
-### 1️⃣ 🔍 Advanced Technical Analysis
+### 3️⃣ 🔍 Advanced Technical Analysis
 
 Cortana brings cutting-edge technical analysis to your fingertips. With support for multiple timeframes, Synthia provides detailed insights for smarter trading decisions. Whether you are a seasoned trader or a beginner, Synhita’s advanced analysis tools can help you stay ahead of the market by providing:
 
@@ -55,7 +56,7 @@ With Synthia’s technical analysis, you can eliminate guesswork and enhance you
 
 ---
 
-### 2️⃣ 📜 Smart Contract Intelligence
+### 4️⃣ 📜 Smart Contract Intelligence
 
 Synthia acts as a blockchain auditor, providing in-depth analysis of any smart contract. Whether you're assessing the safety of a project or trying to understand its tokenomics, Synthia offers a detailed breakdown to keep you informed and secure. Here’s what Synthia can do:
 
@@ -73,7 +74,7 @@ By leveraging Synthia’s smart contract analysis, you can make confident invest
 
 ---
 
-### 3️⃣ 🚀 Spot Trending Projects First
+### 5️⃣ 🚀 Spot Trending Projects First
 
 Be the first to catch trending tokens and projects! Synthia monitors market activity to detect momentum shifts, promotional campaigns, and emerging trends before they gain widespread attention. 
 
@@ -87,7 +88,7 @@ With Synthia’s trend detection, you’ll always be a step ahead, maximizing yo
 
 ---
 
-### 4️⃣ 🌟 Stay Ahead of Market Trends
+### 6️⃣ 🌟 Stay Ahead of Market Trends
 
 Synthia continuously scans the crypto ecosystem to provide live updates and insights, helping you make data-driven decisions in real time. This feature ensures that you’re always informed of the latest developments in the crypto space:
 
@@ -102,7 +103,7 @@ By delivering continuous updates and actionable data, Cortana ensures that you�
 ---
 
 
-### 6️⃣ ⚙️ Agent-as-a-Service 
+### 7️⃣⚙️ Agent-as-a-Service 
 
 Synthia provides developers with the tools to integrate intelligent agents into their applications. Using powerful APIs, you can create custom agents that leverage Synthia’s intelligence for various use cases. With Synthia’s capabilities, you gain:
 
