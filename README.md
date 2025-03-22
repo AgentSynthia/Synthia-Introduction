@@ -42,7 +42,7 @@ Whether you’re launching a new project or experimenting with innovative tokeno
 
 ### 3️⃣ 🔍 Advanced Technical Analysis
 
-Cortana brings cutting-edge technical analysis to your fingertips. With support for multiple timeframes, Synthia provides detailed insights for smarter trading decisions. Whether you are a seasoned trader or a beginner, Synhita’s advanced analysis tools can help you stay ahead of the market by providing:
+Synthia brings cutting-edge technical analysis to your fingertips. With support for multiple timeframes, Synthia provides detailed insights for smarter trading decisions. Whether you are a seasoned trader or a beginner, Synhita’s advanced analysis tools can help you stay ahead of the market by providing:
 
 - **Candlestick Patterns**: Identify trends, reversals, and continuation patterns with precision.
 - **RSI and MACD Indicators**: Monitor momentum, detect overbought/oversold conditions, and spot critical signal crossovers.
@@ -96,7 +96,7 @@ Synthia continuously scans the crypto ecosystem to provide live updates and insi
 - **Price Updates**: Access real-time price movements, including 24-hour changes, highs, lows, and volume metrics.
 - **Fresh Opportunities**: Identify newly launched tokens, hidden gems, and upcoming events that could influence market dynamics.
 
-By delivering continuous updates and actionable data, Cortana ensures that you’re always ahead of the curve in the fast-paced world of cryptocurrency.
+By delivering continuous updates and actionable data, Synthia ensures that you’re always ahead of the curve in the fast-paced world of cryptocurrency.
 
 - 👉 **Usage**: Simply ask Synthia for updates on any coin.
 
@@ -120,7 +120,7 @@ From games and Telegram bots to enterprise applications, Synthia’s API allows 
 
 ## How to Get Started
 
-- Follow Cortana on X: [@AgentSynthia](https://x.com/AgentSynthia)
+- Follow Synthia on X: [@AgentSynthia](https://x.com/AgentSynthia)
 - Join the Telegram community for real-time updates: [t.me/Synthiaaiofficial](https://t.me/Synthiaaiofficial)
 
 Synthia AI is here to make your crypto journey smarter, faster, and more secure. Start exploring her capabilities today!
