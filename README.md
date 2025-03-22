@@ -16,9 +16,9 @@ Synthia now enables seamless **token swapping**, **asset bridging**, and **crypt
 
 Synthia streamlines these complex processes, making them accessible to everyone, regardless of technical expertise.
 
-👉 **Example**: "@AgentSynthia sell 30% of all tokens I have on BSC".
-👉 **Example**: "@AgentSynthia Sell 5% of BNB into 50%USDC, 30%Mubarak and 20%Cake".
-👉 **Example**: "@AgentSynthia Bridge 1BNB from BSC to USDC on Base".
+- 👉 **Example**: "@AgentSynthia sell 30% of all tokens I have on BSC".
+- 👉 **Example**: "@AgentSynthia Sell 5% of BNB into 50%USDC, 30%Mubarak and 20%Cake".
+- 👉 **Example**: "@AgentSynthia Bridge 1BNB from BSC to USDC on Base".
 👉 **Usage**: Get started today on Synthia’s X:[https://x.com/AgentSynthia](https://x.com/AgentSynthia) Telegram: [https://t.me/SynthiaIagentBot](https://t.me/SynthiaAIagentBot).
 
 ---
