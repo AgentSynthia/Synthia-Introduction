@@ -19,7 +19,7 @@ Synthia streamlines these complex processes, making them accessible to everyone,
 - 👉 **Example**: "@AgentSynthia sell 30% of all tokens I have on BSC".
 - 👉 **Example**: "@AgentSynthia Sell 5% of BNB into 50%USDC, 30%Mubarak and 20%Cake".
 - 👉 **Example**: "@AgentSynthia Bridge 1BNB from BSC to USDC on Base".
-👉 **Usage**: Get started today on Synthia’s X:[https://x.com/AgentSynthia](https://x.com/AgentSynthia) Telegram: [https://t.me/SynthiaIagentBot](https://t.me/SynthiaAIagentBot).
+- 👉 **Usage**: Get started today on Synthia’s X:[https://x.com/AgentSynthia](https://x.com/AgentSynthia) Telegram: [https://t.me/SynthiaIagentBot](https://t.me/SynthiaAIagentBot).
 
 ---
 
@@ -33,9 +33,9 @@ Launching your own token is now easier than ever with Synthia. Designed to simpl
 
 Whether you’re launching a new project or experimenting with innovative tokenomics, Synthia takes the complexity out of token creation, allowing you to focus on scaling your idea.
 
-👉 **Usage**: Work with Synthia to deploy your token and manage liquidity pools in minutes.
-👉 **Example**: "@AgentSynthia Deploy a token for me BSCBULL, Ticker BSC".
-👉 **Example**: "@AgentSynthia Claim my LP rewards.
+- 👉 **Usage**: Work with Synthia to deploy your token and manage liquidity pools in minutes.
+- 👉 **Example**: "@AgentSynthia Deploy a token for me BSCBULL, Ticker BSC".
+- 👉 **Example**: "@AgentSynthia Claim my LP rewards.
 
 ---
 
@@ -50,8 +50,8 @@ Cortana brings cutting-edge technical analysis to your fingertips. With support 
 
 With Synthia’s technical analysis, you can eliminate guesswork and enhance your trading strategy through actionable insights. 
 
-👉 **Usage**: Just ask Synthia for chart analysis for any coin.
-👉 **Example**: "@AgentSynthia Can you do technical analysis for Mubarak on BNB".
+- 👉 **Usage**: Just ask Synthia for chart analysis for any coin.
+- 👉 **Example**: "@AgentSynthia Can you do technical analysis for Mubarak on BNB".
 
 
 ---
@@ -69,8 +69,8 @@ Synthia acts as a blockchain auditor, providing in-depth analysis of any smart c
 
 By leveraging Synthia’s smart contract analysis, you can make confident investment decisions with a clear understanding of a project’s structure and safety.
 
-👉 **Usage**: Provide the contract address and chain to receive a full audit instantly.
-👉 **Example**: "@AgentSynthia Can you do analysis for contract 0x5C85D6C6825aB4032337F11Ee92a72DF936b46F6 on BNB".
+- 👉 **Usage**: Provide the contract address and chain to receive a full audit instantly.
+- 👉 **Example**: "@AgentSynthia Can you do analysis for contract 0x5C85D6C6825aB4032337F11Ee92a72DF936b46F6 on BNB".
 
 ---
 
@@ -84,7 +84,7 @@ Be the first to catch trending tokens and projects! Synthia monitors market acti
 
 With Synthia’s trend detection, you’ll always be a step ahead, maximizing your chances to capitalize on the next big project.
 
-👉 **Usage**: Join Synthia’s Telegram channel to receive alerts for the hottest trends before the crowd notices.
+- 👉 **Usage**: Join Synthia’s Telegram channel to receive alerts for the hottest trends before the crowd notices.
 
 ---
 
@@ -98,7 +98,7 @@ Synthia continuously scans the crypto ecosystem to provide live updates and insi
 
 By delivering continuous updates and actionable data, Cortana ensures that you’re always ahead of the curve in the fast-paced world of cryptocurrency.
 
-👉 **Usage**: Simply ask Cortana for updates on any coin.
+- 👉 **Usage**: Simply ask Synthia for updates on any coin.
 
 ---
 
