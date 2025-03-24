@@ -23,7 +23,7 @@ Synthia streamlines these complex processes, making them accessible to everyone,
 - 👉 **Example**: "@AgentSynthia sell 30% of all tokens I have on BSC".
 - 👉 **Example**: "@AgentSynthia Sell 5% of BNB into 50%USDC, 30%Mubarak and 20%Cake".
 - 👉 **Example**: "@AgentSynthia Bridge 1BNB from BSC to USDC on Base".
-- 👉 **Usage**: Get started today on Synthia’s X:[https://x.com/AgentSynthia](https://x.com/AgentSynthia) Telegram: [https://t.me/SynthiaIagentBot](https://t.me/SynthiaAIagentBot).
+- 👉 **Usage**: Get started today on Synthia’s X:[https://x.com/AgentSynthia](https://x.com/AgentSynthia) Telegram: [https://t.me/SynthiaAIagentBot](https://t.me/SynthiaAIagentBot).
 
 ---
 
@@ -127,5 +127,6 @@ From games and Telegram bots to enterprise applications, Synthia’s API allows 
 - Follow Synthia on X: [@AgentSynthia](https://x.com/AgentSynthia)
 - Join the Telegram community for real-time updates: [t.me/Synthiaaiofficial](https://t.me/Synthiaaiofficial)
 - Website- [https://agentsynthia.com](https://agentsynthia.com)
+- TG Bot- [https://t.me/SynthiaAIagentBot](https://t.me/SynthiaAIagentBot)
 
 Synthia AI is here to make your crypto journey smarter, faster, and more secure. Start exploring her capabilities today!
