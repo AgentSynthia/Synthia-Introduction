@@ -4,7 +4,7 @@ Synthia AI is a revolutionary AI agent designed to empower users with advanced t
 
 - Contract Address: [0x5C75B486EAD5EEA67aCb49F1a0E6214A89216D65](https://bscscan.com/address/0x5C75B486EAD5EEA67aCb49F1a0E6214A89216D65)
 - Liquidity Locked- [https://bscscan.com/tx/0x88dabd62e2e6aeff30d67a8929e98fde73116295ed553584160d1f5996eae598](https://bscscan.com/tx/0x88dabd62e2e6aeff30d67a8929e98fde73116295ed553584160d1f5996eae598)
-- [Buy](https://pancakeswap.finance/swap?outputCurrency=0x5C75B486EAD5EEA67aCb49F1a0E6214A89216D65) on Pancakeswap
+- [Buy $SYNTH](https://pancakeswap.finance/swap?outputCurrency=0x5C75B486EAD5EEA67aCb49F1a0E6214A89216D65) on Pancakeswap
 
 ---
 
