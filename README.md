@@ -31,7 +31,7 @@ Synthia streamlines these complex processes, making them accessible to everyone,
 
 Launching your own token is now easier than ever with Synthia. Designed to simplify the development process, Synthia provides all the tools necessary to bring your project to life without the need for extensive technical expertise. Key benefits include:
 
-- **ERC-20 Token Deployment**: Quickly and effortlessly deploy tokens on Ethereum or other compatible blockchains.
+- **BEP-20 Token Deployment**: Quickly and effortlessly deploy tokens on BSC or other compatible blockchains.
 - **Liquidity Pool Seeding**: Set up and manage liquidity pools to ensure a smooth and active trading experience for your token.
 - - **Earn LP Fees**: After pool is live, the LP tokens of deployed token is locked to increase buyers confidence, and you keep earning Fees generated from trading volume.
 
@@ -126,6 +126,7 @@ From games and Telegram bots to enterprise applications, Synthia’s API allows 
 
 - Follow Synthia on X: [@AgentSynthia](https://x.com/AgentSynthia)
 - Join the Telegram community for real-time updates: [t.me/Synthiaaiofficial](https://t.me/Synthiaaiofficial)
+- Linktree- [https://linktr.ee/agentsynthia](https://linktr.ee/agentsynthia)
 - Website- [https://agentsynthia.com](https://agentsynthia.com)
 - TG Bot- [https://t.me/SynthiaAIagentBot](https://t.me/SynthiaAIagentBot)
 
